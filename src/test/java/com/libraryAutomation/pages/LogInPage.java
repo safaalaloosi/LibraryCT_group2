@@ -1,2 +1,5 @@
-package com.libraryAutomation.pages;public class LogInPage {
+package com.libraryAutomation.pages;
+
+public class LogInPage {
+
 }

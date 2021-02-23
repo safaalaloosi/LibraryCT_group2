@@ -1,2 +1,4 @@
-package com.libraryAutomation.pages;public class BasePage {
+package com.libraryAutomation.pages;
+
+public class BasePage {
 }
